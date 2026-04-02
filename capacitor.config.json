@@ -1,0 +1,6 @@
+{
+  "appId": "com.html2apk.app",
+  "appName": "MyHTMLApp",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
